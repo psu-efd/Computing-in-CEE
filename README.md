@@ -12,7 +12,7 @@ Penn State University
 
 Web: http://water.engr.psu.edu/liu/
 
-# See static render on nbviewer
+# See static render on [nbviewer](https://nbviewer.jupyter.org/github/psu-efd/Computing-in-CEE/blob/master/index.ipynb)
 
 GitHub does not support certain features in the Jupyter Notebook. You can view a static render on [nbviewer](https://nbviewer.jupyter.org/github/psu-efd/Computing-in-CEE/blob/master/index.ipynb).
 

@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#exclude movies
+.mov
+.mp4
+.cmproj
+
+.htm
+.html

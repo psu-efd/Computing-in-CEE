@@ -1,0 +1,1 @@
+This example shows the type I problem of using Manning's equation. A function is defined to calculate the carrying capacity of an open channel if the following is given: area, wetted perimeter (or hydraulic radius), Manning's n, and channel slope. 

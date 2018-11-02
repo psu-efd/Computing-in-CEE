@@ -24,5 +24,5 @@ purposes. You are free to share and adapt under the terms of attribution and non
 
 # Author
 
-Dr. Xiaofeng Liu (see [web](https://fangohr.github.io),
+Dr. Xiaofeng Liu (see [web](http://water.engr.psu.edu/liu/),
 [twitter](https://twitter.com/Xiaofeng_Liu19)) is an assistant professor in the Department of Civil and Environmental Engineering at the Pennsylvania State University. With background in civil engineering and applied mathematics, his main research interest is computational hydraulics and environmental flows. 

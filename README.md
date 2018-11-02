@@ -14,7 +14,7 @@ Web: http://water.engr.psu.edu/liu/
 
 # See static render on nbviewer
 
-GitHub does not support certain features of in the Jupyter Notebook. You can view a static render on [nbviewer](https://nbviewer.jupyter.org/github/psu-efd/Computing-in-CEE/blob/master/index.ipynb).
+GitHub does not support certain features in the Jupyter Notebook. You can view a static render on [nbviewer](https://nbviewer.jupyter.org/github/psu-efd/Computing-in-CEE/blob/master/index.ipynb).
 
 # Why another book?
 

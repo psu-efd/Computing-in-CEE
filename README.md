@@ -12,6 +12,11 @@ Penn State University
 
 Web: http://water.engr.psu.edu/liu/
 
+# Why another book?
+
+There are many many excellent books on the topic computational methods for engineers and scientists, as well as programming. However, through my teaching and research, I increasingly feel that there is a lack of discipline-specific textbook for civil and environmental engineers. Many of the books I used for my study and teaching are very general. They are geared toward a much broader audience, which is good. However, a consequence of this is that the content (description of each numerical method, examples, and exercise problems) may not be so relevant to civil and environmental engineers. This book is specifically designed to fill this hole. 
+
+This work is far from complete. As of now, it is a collection of lecture notes in the form of Jupyter Notebooks using Python. These lecture notes are for the **Computing in Civil and Environmental Engineering** course that the author offers at Penn State. It will evolve as time goes by and may not reach completion before several batches of students go through this course.
 
 # License
 

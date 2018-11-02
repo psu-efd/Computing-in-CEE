@@ -12,6 +12,10 @@ Penn State University
 
 Web: http://water.engr.psu.edu/liu/
 
+# See static render on nbviewer
+
+GitHub does not support certain features of in the Jupyter Notebook. You can view a static render on [nbviewer](https://nbviewer.jupyter.org/github/psu-efd/Computing-in-CEE/blob/master/index.ipynb).
+
 # Why another book?
 
 There are many many excellent books on the topic computational methods for engineers and scientists, as well as programming. However, through my teaching and research, I increasingly feel that there is a lack of discipline-specific textbook for civil and environmental engineers. Many of the books I used for my study and teaching are very general. They are geared toward a much broader audience, which is good. However, a consequence of this is that the content (description of each numerical method, examples, and exercise problems) may not be so relevant to civil and environmental engineers. This book is specifically designed to fill this hole. 

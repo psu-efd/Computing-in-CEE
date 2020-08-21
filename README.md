@@ -3,10 +3,10 @@
 # Computing in Civil and Environmental Engineering
 
 by Xiaofeng Liu, Ph.D., P.E.
-Assistant Professor
+Associate Professor
 
 Department of Civil and Environmental Engineering  
-Institute of CyberScience  
+Institute of Computational and Data Sciences  
 Penn State University  
 223B Sackett Building, University Park, PA 16802
 
@@ -34,4 +34,4 @@ purposes. You are free to share and adapt under the terms of attribution and non
 # Author
 
 Dr. Xiaofeng Liu (see [web](http://water.engr.psu.edu/liu/),
-[twitter](https://twitter.com/Xiaofeng_Liu19)) is an assistant professor in the Department of Civil and Environmental Engineering at the Pennsylvania State University. With background in civil engineering and applied mathematics, his main research interest is computational hydraulics and environmental flows. 
+[twitter](https://twitter.com/Xiaofeng_Liu19)) is an associate professor in the Department of Civil and Environmental Engineering at the Pennsylvania State University. With background in civil engineering and applied mathematics, his main research interest is computational hydraulics and environmental flows. 

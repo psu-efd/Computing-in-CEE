@@ -34,7 +34,7 @@ This work is still evolving. As time goes by, more content and CEE-relevant exam
 		- Installation of Python and libraries
 		- Difference between Python v2 and v3
 	- Examples:
-		- Manning's equation for discharge calculation
+		- [Manning's equation for discharge calculation](chapter_1_basics/Mannings_equation/Mannings_equation.ipynb)
 		- Calculation of $\pi$ with Python
 - Chapter 2: Root finding
 	- Text: 

@@ -24,12 +24,30 @@ This work is far from complete. As of now, it is a collection of lecture notes i
 
 # Overview and outline
 
-This work is still evolving. As time goes by, more content and CEE-relevant examples will be added. 
+This work is still evolving. As time goes by, more content and CEE-relevant examples will be added. The following is the outline and example list:
+- Chapter 1: Basics
+	- Text: 
+		- Introduction to Jupyter Notebook
+		- Introduction to Python
+		- Installation of Python and libraries
+		- Difference between Python v2 and v3
+	- Examples:
+		- Manning's equation for discharge calculation
+		- Calculation of $\pi$ with Python
+- Chapter 2: Root finding
+- Chapter 3: Interpolation and curve fitting
+- Chapter 4: Linear system of equations
+- Chapter 5: Numerical integration
+- Chapter 6: Numerical differentiation
+- Chapter 7: Ordinary differential equations
+- Chapter 8: Partial differential equations
+- Chapter 9: Optimaizations
+- Chapter 10: Statistics
 
 # How to contribute?
 
 A project like this will definitely benefit from the community. Contributions in the following categories are welcome:
-- Bugs and errors in the text and code
+- Report of bugs and errors in the text and code
 - CEE-relevant examples (either just an idea or full implementation): my background in water resources engineering may skew the examples more toward what we call the "wet" side of CEE. Thus, examples from the "dry" side are especially welcome. 
 - Special topic suggestions: any topic not covered in the text but of relevance to the CEE profession. 
 

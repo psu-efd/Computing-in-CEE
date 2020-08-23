@@ -22,6 +22,8 @@ There are many many excellent books on the topic computational methods for engin
 
 This work is far from complete. As of now, it is a collection of lecture notes in the form of Jupyter Notebooks using Python. These lecture notes are for the **Computing in Civil and Environmental Engineering** course that the author offers at Penn State. It will evolve as time goes by and may not reach completion before several batches of students go through this course.
 
+Although the title of the book sounds like it is *ONLY* for civil and environmental engineers, it is envisioned that students and practioners from other disciplines, such as agricultural and biological engineering, architectural engineering, earth and mineral sciences, and geological sciences,  can find this work useful. 
+
 # Overview and outline
 
 This work is still evolving. As time goes by, more content and CEE-relevant examples will be added. The following is the outline and example list:

@@ -39,15 +39,17 @@ This work is still evolving. As time goes by, more content and CEE-relevant exam
 		- [Calculation of $\pi$ with Python](chapter_1_basics/calculate_Pi_with_Python/calculate_Pi_with_python.ipynb)
 - Chapter 2: Root finding
 	- Text: 
-		- Root finding methods: bracketting methods (bisection method), open methods (Newton method and Secant method)
-		- Python libraries for root finding
+		- [Root finding methods](chapter_2_root_finding/root_finding_methods/root_finding_methods.ipynb): 
+			- bracketting methods ([bisection method](chapter_2_root_finding/bisection_method.ipynb))
+			- [open methods](chapter_2_root_finding/open_methods.ipynb) (Newton method and Secant method)
+		- [Python libraries for root finding](chapter_2_root_finding/python_built-in_root_finding_functions.ipynb)
 	- Examples:
-		- Green-Ampt infiltration
-		- Manning's equation for normal depth calculation
-		- Beam deflection
-		- Friction factor using the Colebrook-White formula
-		- Particle settling in fluid
-		- A step in open channel flow
+		- [Green-Ampt infiltration](chapter_2_root_finding/Green_Ampt_infiltration/GreenAmpt_infiltration.ipynb)
+		- [Manning's equation for normal depth calculation](chapter_2_root_finding/Mannings_equation_normal_depth/Mannings_equation_normal_depth.ipynb)
+		- [Beam deflection](chapter_2_root_finding/beam_deflection/beam_deflection.ipynb)
+		- [Friction factor using the Colebrook-White formula](chapter_2_root_finding/friction_factor_Colebrook_White/friction_factor_Colebrook_White.ipynb)
+		- [Particle settling in fluid](chapter_2_root_finding/particle_motion_in_fluid/particle_motion_in_fluid.ipynb)
+		- [A step in open channel flow](chapter_2_root_finding/step_in_OCF/A_step_in_open_channel_flow.ipynb)
 - Chapter 3: Interpolation and curve fitting
 	- Text:
 		- Introduction

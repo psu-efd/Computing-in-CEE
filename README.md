@@ -22,6 +22,23 @@ There are many many excellent books on the topic computational methods for engin
 
 This work is far from complete. As of now, it is a collection of lecture notes in the form of Jupyter Notebooks using Python. These lecture notes are for the **Computing in Civil and Environmental Engineering** course that the author offers at Penn State. It will evolve as time goes by and may not reach completion before several batches of students go through this course.
 
+# Overview and outline
+
+This work is still evolving. As time goes by, more content and CEE-relevant examples will be added. 
+
+# How to contribute?
+
+A project like this will definitely benefit from the community. Contributions in the following categories are welcome:
+- Bugs and errors in the text and code
+- CEE-relevant examples (either just an idea or full implementation): my background in water resources engineering may skew the examples more toward what we call the "wet" side of CEE. Thus, examples from the "dry" side are especially welcome. 
+- Special topic suggestions: any topic not covered in the text but of relevance to the CEE profession. 
+
+If you want to contribute, either create a pull request or simply send an email to: <xzl123@psu.edu>. 
+
+# Acknowledgements
+
+This work is partically supported by the Penn State CEE Harry West Teaching Award. 
+
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is

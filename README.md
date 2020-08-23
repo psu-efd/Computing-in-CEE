@@ -134,7 +134,7 @@ If you want to contribute, either create a pull request or simply send an email 
 
 # Acknowledgements
 
-This work is partically supported by the Penn State CEE Harry West Teaching Award. 
+This work is partially supported by the Penn State CEE Harry West Teaching Award. 
 
 # License
 

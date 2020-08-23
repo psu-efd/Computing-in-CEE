@@ -33,7 +33,7 @@ This work is still evolving. As time goes by, more content and CEE-relevant exam
 		- Difference between Python v2 and v3
 	- Examples:
 		- Manning's equation for discharge calculation
-		- Calculation of $\pi$ with Python
+		- Calculation of $$\pi$$ with Python
 - Chapter 2: Root finding
 - Chapter 3: Interpolation and curve fitting
 - Chapter 4: Linear system of equations

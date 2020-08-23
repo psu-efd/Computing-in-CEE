@@ -29,13 +29,14 @@ Although the title of the book sounds like it is *ONLY* for civil and environmen
 This work is still evolving. As time goes by, more content and CEE-relevant examples will be added. The following is the outline and example list:
 - Chapter 1: Basics
 	- Text: 
-		- Introduction to Jupyter Notebook
-		- Introduction to Python
-		- Installation of Python and libraries
-		- Difference between Python v2 and v3
+		- [Introduction to Jupyter Notebook](chapter_1_basics/introduction_to_Jupyter_Notebook/introduction_to_Jupyter_Notebook.ipynb)
+		- [Introduction to Python](chapter_1_basics/introduction_to_python/introduction_to_python.ipynb)
+		- [Plotting in Python](chapter_1_basics/introduction_to_python/Plotting_in_Python.ipynb)
+		- [Installation of Python and libraries](chapter_1_basics/installation_of_Python_and_libraries/installation_of_Python_and_libraries.ipynb)
+		- [Difference between Python v2 and v3](chapter_1_basics/differences_between_python_v2_and_v3/differences_between_python_v2_and_v3.ipynb)
 	- Examples:
 		- [Manning's equation for discharge calculation](chapter_1_basics/Mannings_equation/Mannings_equation.ipynb)
-		- Calculation of $\pi$ with Python
+		- [Calculation of $\pi$ with Python](chapter_1_basics/calculate_Pi_with_Python/calculate_Pi_with_python.ipynb)
 - Chapter 2: Root finding
 	- Text: 
 		- Root finding methods: bracketting methods (bisection method), open methods (Newton method and Secant method)

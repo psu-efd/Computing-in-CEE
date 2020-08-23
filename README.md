@@ -42,6 +42,7 @@ This work is still evolving. As time goes by, more content and CEE-relevant exam
 		- [Root finding methods](chapter_2_root_finding/root_finding_methods/root_finding_methods.ipynb): 
 			- bracketting methods ([bisection method](chapter_2_root_finding/bisection_method.ipynb))
 			- [open methods](chapter_2_root_finding/open_methods.ipynb) (Newton method and Secant method)
+			- [fixed-point iteration method](chapter_2_root_finding/fixed_point_iteration.ipynb)
 		- [Python libraries for root finding](chapter_2_root_finding/python_built-in_root_finding_functions.ipynb)
 	- Examples:
 		- [Green-Ampt infiltration](chapter_2_root_finding/Green_Ampt_infiltration/GreenAmpt_infiltration.ipynb)

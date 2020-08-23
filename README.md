@@ -33,15 +33,92 @@ This work is still evolving. As time goes by, more content and CEE-relevant exam
 		- Difference between Python v2 and v3
 	- Examples:
 		- Manning's equation for discharge calculation
-		- Calculation of $$\pi$$ with Python
+		- Calculation of $\pi$ with Python
 - Chapter 2: Root finding
+	- Text: 
+		- Root finding methods: bracketting methods (bisection method), open methods (Newton method and Secant method)
+		- Python libraries for root finding
+	- Examples:
+		- Green-Ampt infiltration
+		- Manning's equation for normal depth calculation
+		- Beam deflection
+		- Friction factor using the Colebrook-White formula
+		- Particle settling in fluid
+		- A step in open channel flow
 - Chapter 3: Interpolation and curve fitting
+	- Text:
+		- Introduction
+		- Least-square regression: linear regression, linearizable nonlinear regression, polynomial regression, and nonlinear regression
+		- Interpolation
+		- Python libraries for curve fitting
+	- Examples:
+		- Fluid rheological data fitting
+		- Saturation growth rate
+		- Surface area vs storage volume for a reservior
+		- Flow velocity profile in open channel flows
+		- Weir discharge coefficient
 - Chapter 4: Linear system of equations
+	- Text:
+		- Introduction and background
+		- Graphcial method
+		- Direct solution methods: Determinant and Cramer's rule, Gauss elimination method, Gauss-Jordan method, LU decomposition method
+		- Iterative solution methods: Jacobi method, Gauss-Seidel method, SOR method
+		- Extra: marix vector operations in Python
+	- Examples:
+		- 2D truss
+		- Steady state chemical reactor
+		- Material mixing
 - Chapter 5: Numerical integration
+	- Text:
+		- Introduction
+		- Newton-Cotes methods: trapezoidal rule, Simpson's rule, double and multiple integrals
+		- Gauss quadrature
+		- Python libraries for numerical integration
+	- Examples:
+		- Arc length
+		- Center of mass
+		- Convolution integral
+		- Discharge across a section
+		- Fouries series coefficients
+		- Hydrostatic force and moment on plane surface
+		- Probability
 - Chapter 6: Numerical differentiation
+	- Text:
+		- Introduction
+		- Derivations of differential formulas: first-order, second-order, accuracy of numerical derivatives, some practical issues
+		- Python libraries for numerical differentiation
+	- Examples:
+		- Heat conduction along a rod
+		- Gradient calculation
 - Chapter 7: Ordinary differential equations
+	- Text:
+		- Introduction and background
+		- Initial value problems
+		- Boundary value problems
+		- Python libraries for ODEs
+	- Examples:
+		- Streeter-Phelps model for water quality
+		- Backwater curve in open channels
+		- Unsteady batch reactor
+		- Mass-spring-damper system
+		- Prey-predator model
+		- Beam deflection
+		- laminar boundary layer
+		- Convective cooling
 - Chapter 8: Partial differential equations
+	- Text:
+	- Examples:
+		- Unsteady diffusion 
+		- Laplace equation
+		- Terzaghi 1D consolidation
+		- Unsteady advection-diffusion
+		- Waves
 - Chapter 9: Optimaizations
+	- Text: 
+	- Examples:
+		- Best hydraulic section in open channels
+		- Transportation cost
+		- Optimizing a 2D truss
 - Chapter 10: Statistics
 
 # How to contribute?

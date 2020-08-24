@@ -30,9 +30,10 @@ This work is still evolving. As time goes by, more content and CEE-relevant exam
 - Chapter 1: Basics
 	- Text: 
 		- [Introduction to Jupyter Notebook](chapter_1_basics/introduction_to_Jupyter_Notebook/introduction_to_Jupyter_Notebook.ipynb)
+		- [Installation of Python and libraries](chapter_1_basics/installation_of_Python_and_libraries/installation_of_Python_and_libraries.ipynb)
 		- [Introduction to Python](chapter_1_basics/introduction_to_python/introduction_to_python.ipynb)
 		- [Plotting in Python](chapter_1_basics/introduction_to_python/Plotting_in_Python.ipynb)
-		- [Installation of Python and libraries](chapter_1_basics/installation_of_Python_and_libraries/installation_of_Python_and_libraries.ipynb)
+		- [Numerical analysis and errors](chapter_1_basics/numerical_analysis_errors/numercial_analysis_errors.ipynb)
 		- [Difference between Python v2 and v3](chapter_1_basics/differences_between_python_v2_and_v3/differences_between_python_v2_and_v3.ipynb)
 	- Examples:
 		- [Manning's equation for discharge calculation](chapter_1_basics/Mannings_equation/Mannings_equation.ipynb)

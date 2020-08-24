@@ -137,6 +137,10 @@ A project like this will definitely benefit from the community. Contributions in
 
 If you want to contribute, either create a pull request or simply send an email to: <xzl123@psu.edu>. 
 
+# How to cite?
+X. Liu (2020). Computing in Civil and Environmental Engineering. GitHub repository, [https://github.com/psu-efd/Computing-in-CEE](https://github.com/psu-efd/Computing-in-CEE) 
+[![DOI](https://zenodo.org/badge/155902649.svg)](https://zenodo.org/badge/latestdoi/155902649)
+
 # Acknowledgements
 
 This work is partially supported by the Penn State CEE Harry West Teaching Award. 

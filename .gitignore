@@ -110,3 +110,8 @@ venv.bak/
 
 .htm
 .html
+
+_config.yml
+_toc.yml
+logo.png
+_build/

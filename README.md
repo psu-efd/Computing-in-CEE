@@ -7,6 +7,7 @@ Associate Professor
 
 Department of Civil and Environmental Engineering  
 Institute of Computational and Data Sciences  
+
 Penn State University  
 223B Sackett Building, University Park, PA 16802
 
@@ -29,6 +30,9 @@ Although the title of the book sounds like it is *ONLY* for civil and environmen
 This work is still evolving. As time goes by, more content and CEE-relevant examples will be added. The following is the outline and example list:
 - Chapter 1: Basics
 	- Text: 
+        - [Why computing?](chapter_1_basics/why_computing/why_computing.ipynb) 
+        - [Computer basics](chapter_1_basics/computer_basics/computer_basics.ipynb)
+        - [Primer on programming](chapter_1_basics/primer_on_programming/primer_on_programming.ipynb)
 		- [Introduction to Jupyter Notebook](chapter_1_basics/introduction_to_Jupyter_Notebook/introduction_to_Jupyter_Notebook.ipynb)
 		- [Installation of Python and libraries](chapter_1_basics/installation_of_Python_and_libraries/installation_of_Python_and_libraries.ipynb)
 		- [Introduction to Python](chapter_1_basics/introduction_to_python/introduction_to_python.ipynb)

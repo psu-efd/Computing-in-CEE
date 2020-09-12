@@ -55,14 +55,21 @@ This work is still evolving. As time goes by, more content and CEE-relevant exam
 		- [Friction factor using the Colebrook-White formula](chapter_2_root_finding/friction_factor_Colebrook_White/friction_factor_Colebrook_White.ipynb)
 		- [Particle settling in fluid](chapter_2_root_finding/particle_motion_in_fluid/particle_motion_in_fluid.ipynb)
 		- [A step in open channel flow](chapter_2_root_finding/step_in_OCF/A_step_in_open_channel_flow.ipynb)
-- Chapter 3: Interpolation and curve fitting
+- Chapter 3: Curve fitting
 	- Text:
-		- Introduction
-		- Least-square regression: linear regression, linearizable nonlinear regression, polynomial regression, and nonlinear regression
-		- Interpolation
-		- Python libraries for curve fitting
+		- [Curve fitting](chapter_3_interpolation_curve_fitting/curve_fitting.ipynb)
+			- Introduction
+			- Least-square regression: 
+				- linear regression
+				- linearizable nonlinear regression
+				- polynomial regression
+				- nonlinear regression
+			- Interpolation: 
+				- Newton's divided-difference interpolating polynomials
+				- Lagrange interpolating polynomials
+			- Python libraries for curve fitting
 	- Examples:
-		- Fluid rheological data fitting
+		- [Fluid rheological data fitting](chapter_3_interpolation_curve_fitting/rheology_BoyerEtAl2011/rheology_example.ipynb)
 		- Saturation growth rate
 		- Surface area vs storage volume for a reservior
 		- Flow velocity profile in open channel flows

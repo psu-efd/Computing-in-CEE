@@ -83,9 +83,9 @@ This work is still evolving. As time goes by, more content and CEE-relevant exam
 			- Iterative solution methods: Jacobi method, Gauss-Seidel method, SOR method
 			- Appendix: marix vector operations in Python
 	- Examples:
-		- 2D truss
-		- Steady state chemical reactor
-		- Material mixing
+		- [2D truss](chapter_4_linear_system/2D_truss/2D_truss.ipynb)
+		- [Steady state chemical reactor](chapter_4_linear_system/steady_chemical_reactors/reactor_system.ipynb)
+		- [Material mixing](chapter_4_linear_system/material_mixing/material_mixing.ipynb)
 - Chapter 5: Numerical integration
 	- Text:
 		- Introduction

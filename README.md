@@ -70,17 +70,18 @@ This work is still evolving. As time goes by, more content and CEE-relevant exam
 			- Python libraries for curve fitting
 	- Examples:
 		- [Fluid rheological data fitting](chapter_3_interpolation_curve_fitting/rheology_BoyerEtAl2011/rheology_example.ipynb)
+		- [Flow velocity profile in open channel flows](chapter_3_interpolation_curve_fitting/velocity_profile/curve_fitting_log_law.ipynb)
+		- [Weir discharge coefficient](chapter_3_interpolation_curve_fitting/weir_coefficient/curve_fitting_weir_coefficient.ipynb)
 		- Saturation growth rate
-		- Surface area vs storage volume for a reservior
-		- Flow velocity profile in open channel flows
-		- Weir discharge coefficient
+		- Surface area vs storage volume for a reservior		
 - Chapter 4: Linear system of equations
 	- Text:
-		- Introduction and background
-		- Graphcial method
-		- Direct solution methods: Determinant and Cramer's rule, Gauss elimination method, Gauss-Jordan method, LU decomposition method
-		- Iterative solution methods: Jacobi method, Gauss-Seidel method, SOR method
-		- Extra: marix vector operations in Python
+		- [Linear equation systems](chapter_4_linear_system/linear_equation_systems.ipynb)
+			- Introduction and background
+			- Graphcial method
+			- Direct solution methods: Determinant and Cramer's rule, Gauss elimination method, Gauss-Jordan method, LU decomposition method
+			- Iterative solution methods: Jacobi method, Gauss-Seidel method, SOR method
+			- Appendix: marix vector operations in Python
 	- Examples:
 		- 2D truss
 		- Steady state chemical reactor

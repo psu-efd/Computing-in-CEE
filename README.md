@@ -81,11 +81,12 @@ This work is still evolving. As time goes by, more content and CEE-relevant exam
 			- Graphcial method
 			- Direct solution methods: Determinant and Cramer's rule, Gauss elimination method, Gauss-Jordan method, LU decomposition method
 			- Iterative solution methods: Jacobi method, Gauss-Seidel method, SOR method
-			- Appendix: marix vector operations in Python
+			- Appendix: marix and vector operations in Python
 	- Examples:
 		- [2D truss](chapter_4_linear_system/2D_truss/2D_truss.ipynb)
-		- [Steady state chemical reactor](chapter_4_linear_system/steady_chemical_reactors/reactor_system.ipynb)
+		- [Steady state chemical reactor](chapter_4_linear_system/steady_chemical_reactors/steady_chemical_reactors.ipynb)
 		- [Material mixing](chapter_4_linear_system/material_mixing/material_mixing.ipynb)
+		- [Dimensional analysis](chapter_4_linear_system/Buckingham_pi_theorem/Buckingham_pi_theorem.ipynb)
 - Chapter 5: Numerical integration
 	- Text:
 		- Introduction

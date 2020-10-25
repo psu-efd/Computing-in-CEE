@@ -87,13 +87,13 @@ This work is still evolving. As time goes by, more content and CEE-relevant exam
 		- [Steady state chemical reactor](chapter_4_linear_system/steady_chemical_reactors/steady_chemical_reactors.ipynb)
 		- [Material mixing](chapter_4_linear_system/material_mixing/material_mixing.ipynb)
 		- [Dimensional analysis](chapter_4_linear_system/Buckingham_pi_theorem/Buckingham_pi_theorem.ipynb)
-		- [parabolic_vertical_road_curves](chapter_4_linear_system/parabolic_vertical_road_curves/parabolic_vertical_curve.ipynb)
+		- [Parabolic vertical road curves](chapter_4_linear_system/parabolic_vertical_road_curves/parabolic_vertical_curve.ipynb)
 - Chapter 5: Numerical integration
 	- Text:
-		- Introduction
-		- Newton-Cotes methods: trapezoidal rule, Simpson's rule, double and multiple integrals
-		- Gauss quadrature
-		- Python libraries for numerical integration
+		- [Numerical integration](chapter_5_numerical_integration/numerical_integration.ipynb)
+			- Newton-Cotes methods: trapezoidal rule, Simpson's rule, double and multiple integrals
+			- Gauss quadrature
+			- Python libraries for numerical integration
 	- Examples:
 		- Arc length
 		- Center of mass

@@ -104,9 +104,10 @@ This work is still evolving. As time goes by, more content and CEE-relevant exam
 		- Probability
 - Chapter 6: Numerical differentiation
 	- Text:
-		- Introduction
-		- Derivations of differential formulas: first-order, second-order, accuracy of numerical derivatives, some practical issues
-		- Python libraries for numerical differentiation
+		- [Numerical differentiation](chapter_6_numerical_differentiation/numerical_differentiation.ipynb)
+			- Introduction
+			- Derivations of differential formulas: first-order, second-order, accuracy of numerical derivatives, some practical issues
+			- Python libraries for numerical differentiation
 	- Examples:
 		- Heat conduction along a rod
 		- Gradient calculation
